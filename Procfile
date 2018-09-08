@@ -1,1 +1,1 @@
-worker node package-locks.js
+worker node bot.js
